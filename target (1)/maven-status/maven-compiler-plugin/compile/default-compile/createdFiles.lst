@@ -1,0 +1,12 @@
+Servlets\com\mycompany\web\JakartaRestConfiguration.class
+Servlets\com\pojo\Alumno.class
+Connection\MyConnection.class
+Dates\StudentManagement.class
+Dates\AdminManagement.class
+Servlets\InsertarAlumno.class
+Servlets\com\databases\AlumnoDB.class
+Dates\Admin.class
+Servlets\InformacionCliente.class
+Dates\Student.class
+Servlets\com\mycompany\web\resources\JakartaEE10Resource.class
+Servlets\MiServlet.class
